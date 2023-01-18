@@ -13,7 +13,7 @@ public class UserController {
 
     @GetMapping("users")
     public String demo(){
-        return "New Api running";
+        return "New Api running 2";
     }
 
 }
